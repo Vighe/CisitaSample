@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CisitaSample2020</string>
+    <string name="TextProva">Ciao a tutti sono un applicativo</string>
+    <string name="ButtonProva">Click me!</string>
+</resources>
